@@ -1,0 +1,31 @@
+html {
+  background-color:#c9b5ab;
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1, h2 {
+  color: #3f1622;
+  font-family: 'PT Serif', serif;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+  a,
+  a:link {
+    color:#8f2440;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color:#3f1622;
+  }
+
+  nav ul {
+    font-family: 'PT Serif', serif;
+    list-style-type: none;
+    color: #8f2440;
+  }
